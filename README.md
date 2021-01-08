@@ -1,4 +1,4 @@
-CMosaic  (c) mjt, 2015-2016  [mixut@hotmail.com]
+CMosaic  (c) mjt, 2015-2016
 
 Released under MIT-license.
 
