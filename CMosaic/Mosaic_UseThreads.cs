@@ -51,7 +51,7 @@ namespace CMosaicUseThreads
                     TC = Int16.Parse(args[2]);
                 if (args.Length > 3) // jos annettu block leveys
                     W = H = Int16.Parse(args[3]);
-                if (args.Length > 2) // jos annettu block korkeus
+                if (args.Length > 4) // jos annettu block korkeus
                     H = Int16.Parse(args[4]);
 
                 string DIRNAME = "temp" + W;
